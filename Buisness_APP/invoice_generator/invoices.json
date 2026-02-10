@@ -1,0 +1,222 @@
+[
+  {
+    "invoice_number": 1001,
+    "created_at": "2026-01-22T12:55:01",
+    "customer_name": "Anndy",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "oil change",
+        "qty": 1,
+        "unit_price": 75.0
+      }
+    ],
+    "notes": "",
+    "business": {
+      "name": "macks place",
+      "address": "",
+      "phone": "",
+      "email": ""
+    },
+    "status": "PAID",
+    "due_date": ""
+  },
+  {
+    "invoice_number": 1002,
+    "created_at": "2026-01-22T14:27:22",
+    "business": {
+      "name": "McClanahan_Transport_LLC",
+      "address": "1234 admin street",
+      "phone": "123456789",
+      "email": "mcclanahantransport@Mtransport.com"
+    },
+    "customer_name": "Andy",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "Oil change",
+        "qty": 1,
+        "unit_price": 75.0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "invoice_number": 1003,
+    "created_at": "2026-01-22T14:28:45",
+    "business": {
+      "name": "McClanahan_Transport_LLC",
+      "address": "1234 admin street",
+      "phone": "123456789",
+      "email": "mcclanahantransport@Mtransport.com"
+    },
+    "customer_name": "Andrew",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "Tire Exchange",
+        "qty": 4,
+        "unit_price": 175.0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "invoice_number": 1004,
+    "created_at": "2026-01-22T14:50:20",
+    "business": {
+      "name": "McClanahan_Transport_LLC",
+      "address": "1234 admin street",
+      "phone": "123456789",
+      "email": "mcclanahantransport@Mtransport.com"
+    },
+    "customer_name": "Harvey",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "Oil Change",
+        "qty": 1,
+        "unit_price": 75.0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "invoice_number": 1005,
+    "created_at": "2026-01-22T15:07:16",
+    "business": {
+      "name": "McClanahan_Transport_LLC",
+      "address": "1234 admin street",
+      "phone": "123456789",
+      "email": "mcclanahantransport@Mtransport.com"
+    },
+    "customer_name": "Mandy",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "Oil Change",
+        "qty": 4,
+        "unit_price": 75.0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "invoice_number": 1006,
+    "created_at": "2026-01-22T15:14:36",
+    "business": {
+      "name": "McClanahan_Transport_LLC",
+      "address": "1234 admin street",
+      "phone": "123456789",
+      "email": "mcclanahantransport@Mtransport.com"
+    },
+    "customer_name": "Dan",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "Oil Change",
+        "qty": 1,
+        "unit_price": 75.0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "invoice_number": 1007,
+    "created_at": "2026-01-22T16:11:20",
+    "business": {
+      "name": "McClanahan_Transport_LLC",
+      "address": "1234 admin street",
+      "phone": "123456789",
+      "email": "mcclanahantransport@Mtransport.com"
+    },
+    "customer_name": "Maddy",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "Oil Change",
+        "qty": 1,
+        "unit_price": 75.0
+      },
+      {
+        "description": "Tire Rotation",
+        "qty": 4,
+        "unit_price": 50.0
+      }
+    ],
+    "notes": "",
+    "due_date": "2026-02-22",
+    "status": "PAID"
+  },
+  {
+    "invoice_number": 1008,
+    "created_at": "2026-01-22T16:34:58",
+    "business": {
+      "name": "McClanahan_Transport_LLC",
+      "address": "1234 admin street",
+      "phone": "123456789",
+      "email": "mcclanahantransport@Mtransport.com"
+    },
+    "customer_name": "Duey",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "oil change",
+        "qty": 1,
+        "unit_price": 95.0
+      }
+    ],
+    "notes": "",
+    "due_date": "2026-01-22",
+    "status": "UNPAID"
+  },
+  {
+    "invoice_number": 1009,
+    "created_at": "2026-01-22T16:52:26",
+    "business": {
+      "name": "McClanahan_Transport_LLC",
+      "address": "1234 admin street",
+      "phone": "123456789",
+      "email": "mcclanahantransport@Mtransport.com"
+    },
+    "customer_name": "Adam",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "oil",
+        "qty": 1,
+        "unit_price": 75.0
+      },
+      {
+        "description": "tires",
+        "qty": 4,
+        "unit_price": 250.0
+      }
+    ],
+    "notes": "",
+    "due_date": "2026-01-22",
+    "status": "PAID"
+  }
+]
+    "invoice_number": 1010,
+    "created_at": "2026-01-24T11:48:12",
+    "business": {
+      "name": "McClanahan_Transport_LLC",
+      "address": "1234 admin street",
+      "phone": "123456789",
+      "email": "mcclanahantransport@Mtransport.com"
+    },
+    "customer_name": "CLI Test",
+    "tax_rate": 0.08,
+    "items": [
+      {
+        "description": "Test Service",
+        "qty": 2,
+        "unit_price": 15.0
+      }
+    ],
+    "notes": "",
+    "due_date": "",
+    "status": "UNPAID"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "vendor": "Vendor A",
+    "category": "Services",
+    "amount": 100.0,
+    "billable": true,
+    "billed": true
+  },
+  {
+    "vendor": "Vendor B",
+    "category": "Goods",
+    "amount": 50.5,
+    "billable": true,
+    "billed": true
+  },
+  {
+    "vendor": "Vendor C",
+    "category": "Misc",
+    "amount": 25.0,
+    "billable": false,
+    "billed": false
+  }
+]

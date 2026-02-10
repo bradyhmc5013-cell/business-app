@@ -1,0 +1,3 @@
+id,date,vendor,category,amount,notes,receipt_path,billable,billed
+1,2026-01-10,Shell,Fuel,45.60,,,Y,Y
+2,2026-01-11,AutoZone,Parts,123.45,,C:/tmp/r.png,Y,Y
